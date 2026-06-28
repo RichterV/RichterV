@@ -1,11 +1,11 @@
 # About Me:
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="middle" width="65%">
       Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.
     </td>
-    <td valign="top" width="40%">
-      <img src="grau_de_biz.gif" alt="Gif" />
+    <td valign="middle" width="35%">
+      <img src="grau_de_biz.gif" alt="Gif" width="250" />
     </td>
   </tr>
 </table>
