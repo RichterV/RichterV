@@ -1,6 +1,6 @@
 # About Me:
 <div align="center">
-  <img src="intro.gif" alt="Gif" />
+  <img src="grau_de_biz.gif" alt="Gif" />
 </div>
 Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.<br>
 
