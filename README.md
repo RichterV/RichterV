@@ -1,13 +1,11 @@
 # About Me:
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top" width="70%">
-
-Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.
-
+<td valign="middle" width="70%">
+  <p align="justify">Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.</p>
 </td>
-<td valign="top" width="30%">
-<img src="grau_de_biz.gif" width="250" />
+<td valign="middle" width="30%">
+  <img src="grau_de_biz.gif" width="250" />
 </td>
 </tr>
 </table>
