@@ -1,5 +1,5 @@
 # About Me:
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="middle" width="65%">
       Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.
