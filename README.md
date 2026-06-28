@@ -1,14 +1,6 @@
 # About Me:
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle" width="70%">
-  <p align="justify">Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.</p>
-</td>
-<td valign="middle" width="30%">
-  <img src="grau_de_biz.gif" width="250" />
-</td>
-</tr>
-</table>
+
+<p align="justify">Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusrichteref/) 
@@ -31,3 +23,4 @@
 ![](https://streak-stats.demolab.com/?user=RichterV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RichterV&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<img src="grau_de_biz.gif" width="250" />
