@@ -1,7 +1,16 @@
 # About Me:
-<img src="grau_de_biz.gif" alt="Gif" width="250" align="right" />
+<table>
+<tr>
+<td>
 
-Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.
+Developer and Data Scientist with a Master's degree...
+
+</td>
+<td>
+<img src="grau_de_biz.gif" width="250" />
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusrichteref/) 
