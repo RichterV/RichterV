@@ -1,12 +1,12 @@
 # About Me:
 <table>
 <tr>
-<td>
+<td valign="top" width="70%">
 
-Developer and Data Scientist with a Master's degree...
+Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.
 
 </td>
-<td>
+<td valign="top" width="30%">
 <img src="grau_de_biz.gif" width="250" />
 </td>
 </tr>
