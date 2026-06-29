@@ -1,14 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF724&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF724&width=600&lines=About+Me%3A)](https://git.io/typing-svg)
 
 ```bash
-$ whoami
-> Developer & Data Scientist | ML | Computer Vision | Geospatial AI
-> Master's in Forest Engineering | BSc in Computer Science (in progress)
-> Transforming not-so-cool data into cool stuff
+Developer and Data Scientist with a Master's degree in Forest Engineering
+and currently pursuing a Bachelor's degree in Computer Science.
+Specialized in Machine Learning, Computer Vision, and Geospatial AI,
+with experience in developing predictive models, analytical pipelines,
+and scalable software solutions that transform data that's not so cool into cool stuff.
 ```
 
-<p align="justify">Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.</p>
-
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusrichteref/) 
 
