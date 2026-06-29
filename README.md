@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF724&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Developer+and+Data+Scientist+with+a+Master's+degree+in+Forest+Engineering+and+currently+pursuing+a+Bachelor's+degree+in+Computer+Science.+Specialized+in+Machine+Learning%2C+Computer+Vision%2C+and+Geospatial+AI%2C+with+experience+in+developing+predictive+models%2C+analytical+pipelines%2C+and+scalable+software+solutions+that+transform+data+that's+not+so+cool+into+cool+stuff.)](https://git.io/typing-svg)
-
 <p align="justify">Developer and Data Scientist with a Master's degree in Forest Engineering and currently pursuing a Bachelor's degree in Computer Science. Specialized in Machine Learning, Computer Vision, and Geospatial AI, with experience in developing predictive models, analytical pipelines, and scalable software solutions that transform data that's not so cool into cool stuff.</p>
 
 ## 🌐 Socials:
